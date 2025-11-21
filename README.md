@@ -40,14 +40,6 @@ Built with **Python, Flask, OpenCV, Tesseract, Deep Learning**, and a secure adm
 User Upload → OCR Layer → Face Recognition → Liveness → Blur Detection → Risk Engine → AI Decision → Admin Dashboard → SQLite DB
 ```
 
-### 📌 Architecture Diagram  
-Add this image after adding it to your repo:
-```
-assets/architecture_diagram.png
-```
-
----
-
 ## 🗂️ Folder Structure
 
 ```
