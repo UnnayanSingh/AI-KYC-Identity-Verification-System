@@ -145,10 +145,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 👤 Author   
-B.Tech – Computer Science and Engineering (Cybersecurity)
-
----
-
 ## 📜 License  
 This project is open-source under the **MIT License**.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
