@@ -146,7 +146,7 @@ http://127.0.0.1:5000/
 ---
 
 ## 👤 Author   
-B.Tech – Computer Science (Cybersecurity)
+B.Tech – Computer Science and Engineering (Cybersecurity)
 
 ---
 
