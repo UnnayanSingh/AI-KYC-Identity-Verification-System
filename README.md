@@ -40,14 +40,6 @@ Built with **Python, Flask, OpenCV, Tesseract, Deep Learning**, and a secure adm
 User Upload → OCR Layer → Face Recognition → Liveness → Blur Detection → Risk Engine → AI Decision → Admin Dashboard → SQLite DB
 ```
 
-### 📌 Architecture Diagram  
-Add this image after adding it to your repo:
-```
-assets/architecture_diagram.png
-```
-
----
-
 ## 🗂️ Folder Structure
 
 ```
@@ -145,10 +137,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 👤 Author   
-B.Tech – Computer Science (Cybersecurity)
-
----
-
 ## 📜 License  
 This project is open-source under the **MIT License**.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
